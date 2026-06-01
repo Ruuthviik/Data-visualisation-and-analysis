@@ -1,4 +1,4 @@
-# Data-visualisation-and-analysis
+# Data_visualisation_and_analysis
 Interactive scrollytelling data story built in R exploring  Australia's $53 billion dependency on international students.  Published as part of RMIT Master of Analytics.
 
 # Hooked on Students: How Australia Built a $53 Billion Dependency
