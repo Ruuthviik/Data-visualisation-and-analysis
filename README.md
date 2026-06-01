@@ -10,7 +10,7 @@ Interactive scrollytelling data story built in R exploring  Australia's $53 bill
 ## Overview
 International education is Australia's fourth-largest export, 
 generating $53.6 billion annually. Yet this industry is built 
-on a fragile, highly concentrated foundation — with over 56% 
+on a fragile, highly concentrated foundation - with over 56% 
 of students coming from just three countries. This story 
 visualises that dependency using official Australian Government 
 data and argues that current policy decisions are accelerating 
