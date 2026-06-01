@@ -37,6 +37,9 @@ a structural crisis that nobody is discussing loudly enough.
 - Chart 3: Concentration risk bubble chart - 
   continuing vs new students by country
 
+## URL or Publications 
+- https://rpubs.com/Ruthvik/hooked-on-students
+
 ## Author
 Ruthvik Sai D | s4203164  
 Master of Analytics, RMIT University  
